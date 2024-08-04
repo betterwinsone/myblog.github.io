@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/myblog/',
+  base: '/myblog.github.io/',
   title: "100sheng",
   description: "一个热爱技术和分享的知识者，一个有灵魂的技术博客",
   themeConfig: {
